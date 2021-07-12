@@ -112,6 +112,12 @@ function App() {
         transition={transition}
         cycle={cycle}
         images={images}
+        imageProps={{
+          onClick: () => console.log('Heyo')
+        }}
+        imageStyles={{
+          filter: 'blur(2px)'
+        }}
       />
     </StyContainer>
   )
