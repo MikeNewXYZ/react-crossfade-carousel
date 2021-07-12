@@ -81,7 +81,7 @@ Transition is the time in milliseconds where one image transitions to the next.
 
 By default it's set to NULL, but if given a number the carousel will show the corresponding image.
 For example if given the value of 2 the carousel will show the third image in the array.
-If it's value is a TRUTHY value then the cycling of images will stop, even if the cycle prop is set to TRUE.
+If it's a TRUTHY value then the cycling of images will stop, even if the cycle prop is set to TRUE.
 
 ```jsx
 const images = [
