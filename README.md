@@ -14,6 +14,10 @@ npm install --save @notbaldrick/react-crossfade-carousel
 yarn add @notbaldrick/react-crossfade-carousel
 ```
 
+<!-- ![](https://github.com/NotBaldrick/react-crossfade-carousel) -->
+
+### [Click here to view an example.](https://codesandbox.io/s/react-crossfade-carousel-efc0b?file=/src/App.js 'sandbox example')
+
 ## Usage
 
 ```jsx
