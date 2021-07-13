@@ -1,10 +1,10 @@
 {
   "name": "@notbaldrick/react-crossfade-carousel",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple react component for creating crossfade image carousels.",
   "author": "NotBaldrick",
   "license": "MIT",
-  "repository": "NotBaldrick/@notbaldrick/react-crossfade-carousel",
+  "repository": "NotBaldrick/react-crossfade-carousel",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
