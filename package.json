@@ -8,6 +8,13 @@
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.js",
+  "keywords": [
+    "react",
+    "carousel",
+    "slider",
+    "slideshow",
+    "crossfade"
+  ],
   "engines": {
     "node": ">=10"
   },
